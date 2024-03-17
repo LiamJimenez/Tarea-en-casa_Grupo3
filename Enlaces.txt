@@ -7,5 +7,5 @@ https://dev.azure.com/Prog3Grupo3/AprendeYa/_backlogs/backlog/AprendeYa%20Team/S
 Enlace del Producto Funcional:
 https://aprendeya.onrender.com/
 
-Enlace del GitHub:
+Codigo del proyecto funcional:
 https://github.com/TheJoak/AprendeYa.github.io.git
