@@ -1,0 +1,11 @@
+Enlace del Scrum Poker:
+https://itlaedudo-my.sharepoint.com/personal/20220818_itla_edu_do/_layouts/15/stream.aspx?id=%2Fpersonal%2F20220818%5Fitla%5Fedu%5Fdo%2FDocuments%2FGrabaciones%2FScrum%20Poker%2D20240317%5F180747%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+Enlace del Product Backlock:
+https://dev.azure.com/Prog3Grupo3/AprendeYa/_backlogs/backlog/AprendeYa%20Team/Stories
+
+Enlace del Producto Funcional:
+https://aprendeya.onrender.com/
+
+Enlace del GitHub:
+https://github.com/TheJoak/AprendeYa.github.io.git
